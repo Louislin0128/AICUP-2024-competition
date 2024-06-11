@@ -1,8 +1,17 @@
 # AICUP-2024-competition
 AICUP 2024 Cross-camera Multiple-object tracking
 
-[Competition](https://tbrain.trendmicro.com.tw/Competitions/Details/33)
-Team 5093: Luu Van Tin , Ngo Duc Thang, 林垣志, Nguyen Quang Sang
+## Team 5093: Luu Van Tin , Ngo Duc Thang, 林垣志, Nguyen Quang Sang 
+- [**AI 驅動出行未來：跨相機多目標車輛追蹤競賽 － 模型組**](https://tbrain.trendmicro.com.tw/Competitions/Details/33)  
+  
+<a href="https://tbrain.trendmicro.com.tw/Competitions/Details/33"><img src="https://i.imgur.com/3nfLbdW.png" title="source: imgur.com" /></a>  
+> In recent years, surveillance camera systems have been widely used on roads due to the demands for
+home security and crime prevention. Since most surveillance systems are currently based on singlecamera recording, each camera operates independently, making it impossible to continue identifying
+moving objects once they leave the field of view. Additionally, in the event of accidents or criminal
+incidents, because each camera records independently and there is no mechanism for cooperative
+operation between cameras, law enforcement agencies must expend significant manpower resources to
+manually search through surveillance recordings to track the paths and trajectories of suspicious vehicles
+or pedestrians. 
 
 ### This work earn the 6th place among 286 teams
 ![image](https://github.com/tinery/AICUP-2024-competition/blob/main/image/lb.png)
