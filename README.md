@@ -14,7 +14,10 @@ manually search through surveillance recordings to track the paths and trajector
 or pedestrians. 
 
 ### This work earn the 6th place among 286 teams
-![image](https://github.com/tinery/AICUP-2024-competition/blob/main/image/lb.png)
+<details>
+  <summary><b>LeaderBoard 🎖️</b></summary>
+  ![image](https://github.com/tinery/AICUP-2024-competition/blob/main/image/lb.png)
+</details>
 
 ### Pipeline of our tracking method
 ![image](https://github.com/tinery/AICUP-2024-competition/blob/main/image/overall.png)
