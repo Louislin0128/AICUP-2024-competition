@@ -21,12 +21,14 @@ or pedestrians.
   <img src="https://img.shields.io/github/downloads/Louislin0128/AICUP-2024-competition/total" alt="Download">
 </a>
 
+
 ### This work earn the 6th place among 286 teams
 <details>
   <summary><b>LeaderBoard 🎖️</b></summary>
   
   ![image](https://github.com/Louislin0128/AICUP-2024-competition/blob/main/photo/lb.png)
 </details>
+
 
 ### Pipeline of our tracking method
 ![image](https://github.com/Louislin0128/AICUP-2024-competition/blob/main/photo/architecture.png)
@@ -38,6 +40,15 @@ or pedestrians.
   <summary><b>Example demo </b></summary>
 
 <br>
+
+1. report 1 
+https://github.com/Louislin0128/AICUP-2024-competition/video/report1
+
+2. report 2
+https://github.com/Louislin0128/AICUP-2024-competition/video/report2
+
+3. report 3 
+https://github.com/Louislin0128/AICUP-2024-competition/video/report3
 
 </details>
 
