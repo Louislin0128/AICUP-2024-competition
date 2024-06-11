@@ -13,8 +13,8 @@ operation between cameras, law enforcement agencies must expend significant manp
 manually search through surveillance recordings to track the paths and trajectories of suspicious vehicles
 or pedestrians. 
 
-<a href="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FAICUP-2024-competition&label=visitors&countColor=%232ccce4&style=plastic" target="_blank">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FAICUP-2024-competition&label=visitors&countColor=%232ccce4&style=plastic" alt="Visitors">
+<a href="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Louislin0128%2FAICUP-2024-competition&label=visitors&countColor=%232ccce4&style=plastic" target="_blank">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Louislin0128%2FAICUP-2024-competition&label=visitors&countColor=%232ccce4&style=plastic" alt="Visitors">
 </a>
 
 <a href="https://img.shields.io/github/downloads/FanChiMao/Competition-2024-PyTorch-Tracking/total" target="_blank">
