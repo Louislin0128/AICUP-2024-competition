@@ -13,6 +13,14 @@ operation between cameras, law enforcement agencies must expend significant manp
 manually search through surveillance recordings to track the paths and trajectories of suspicious vehicles
 or pedestrians. 
 
+<a href="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FCompetition-2024-PyTorch-Tracking&label=visitors&countColor=%232ccce4&style=plastic" target="_blank">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FCompetition-2024-PyTorch-Tracking&label=visitors&countColor=%232ccce4&style=plastic" alt="Visitors">
+</a>
+
+<a href="https://img.shields.io/github/downloads/FanChiMao/Competition-2024-PyTorch-Tracking/total" target="_blank">
+  <img src="https://img.shields.io/github/downloads/FanChiMao/Competition-2024-PyTorch-Tracking/total" alt="Download">
+</a>
+
 ### This work earn the 6th place among 286 teams
 <details>
   <summary><b>LeaderBoard 🎖️</b></summary>
@@ -21,7 +29,12 @@ or pedestrians.
 </details>
 
 ### Pipeline of our tracking method
-![image](https://github.com/Louislin0128/AICUP-2024-competition/blob/main/photo/architecture.png)
+<details>
+  <summary><b>LeaderBoard 🎖️</b></summary>
+  
+  ![image](https://github.com/Louislin0128/AICUP-2024-competition/blob/main/photo/architecture.png)
+</details>
+
 
 ### Install
 This implementation uses Python 3.8, [Pytorch](http://pytorch.org/),  Cuda 11.3. 
