@@ -17,8 +17,8 @@ or pedestrians.
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Louislin0128%2FAICUP-2024-competition&label=visitors&countColor=%232ccce4&style=plastic" alt="Visitors">
 </a>
 
-<a href="https://img.shields.io/github/downloads/FanChiMao/Competition-2024-PyTorch-Tracking/total" target="_blank">
-  <img src="https://img.shields.io/github/downloads/FanChiMao/Competition-2024-PyTorch-Tracking/total" alt="Download">
+<a href="https://img.shields.io/github/downloads/Louislin0128/AICUP-2024-competition/total" target="_blank">
+  <img src="https://img.shields.io/github/downloads/Louislin0128/AICUP-2024-competition/total" alt="Download">
 </a>
 
 ### This work earn the 6th place among 286 teams
