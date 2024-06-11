@@ -29,12 +29,17 @@ or pedestrians.
 </details>
 
 ### Pipeline of our tracking method
-<details>
-  <summary><b>LeaderBoard 🎖️</b></summary>
-  
-  ![image](https://github.com/Louislin0128/AICUP-2024-competition/blob/main/photo/architecture.png)
-</details>
+![image](https://github.com/Louislin0128/AICUP-2024-competition/blob/main/photo/architecture.png)
 
+## 🚗 Demo Results
+### Here are some tracking results.
+
+<details>
+  <summary><b>Example demo </b></summary>
+
+<br>
+
+</details>
 
 ### Install
 This implementation uses Python 3.8, [Pytorch](http://pytorch.org/),  Cuda 11.3. 
