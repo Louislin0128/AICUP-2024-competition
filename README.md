@@ -41,14 +41,6 @@ or pedestrians.
 
 <br>
 
-1. report 1 
-https://github.com/Louislin0128/AICUP-2024-competition/video/report1
-
-2. report 2
-https://github.com/Louislin0128/AICUP-2024-competition/video/report2
-
-3. report 3 
-https://github.com/Louislin0128/AICUP-2024-competition/video/report3
 
 </details>
 
