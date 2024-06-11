@@ -16,11 +16,11 @@ or pedestrians.
 ### This work earn the 6th place among 286 teams
 <details>
   <summary><b>LeaderBoard 🎖️</b></summary>
-![image](https://github.com/Louislin0128/AICUP-2024-competition/photo/lb.png)
+![image](https://github.com/Louislin0128/AICUP-2024-competition/blob/main/photo/lb.png)
 </details>
 
 ### Pipeline of our tracking method
-![image](https://github.com/tinery/AICUP-2024-competition/blob/main/image/overall.png)
+![image](https://github.com/Louislin0128/AICUP-2024-competition/blob/main/photo/architecture.png)
 
 ### Install
 This implementation uses Python 3.8, [Pytorch](http://pytorch.org/),  Cuda 11.3. 
