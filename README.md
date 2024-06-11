@@ -16,7 +16,7 @@ or pedestrians.
 ### This work earn the 6th place among 286 teams
 <details>
   <summary><b>LeaderBoard 🎖️</b></summary>
-  ![image](https://github.com/tinery/AICUP-2024-competition/blob/main/image/lb.png)
+![image](https://github.com/tinery/AICUP-2024-competition/blob/main/image/lb.png)
 </details>
 
 ### Pipeline of our tracking method
