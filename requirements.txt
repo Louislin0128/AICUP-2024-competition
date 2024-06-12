@@ -41,6 +41,7 @@ cython_bbox==0.1.5
 
 # faiss cpu / gpu
 faiss-cpu
+faiss-gpu
 
 # download weight
 wget
