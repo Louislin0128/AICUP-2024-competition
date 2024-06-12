@@ -33,10 +33,11 @@ or pedestrians.
 ### Pipeline of our tracking method
 ![image](https://github.com/Louislin0128/AICUP-2024-competition/blob/main/photo/architecture.png)
 
-<br>
+
 ## Demo Results
 ### Here are some tracking results.
 
+<br>
 <details>
   <summary><b>Example demo </b></summary>
   #TODO
