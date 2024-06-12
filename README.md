@@ -7,7 +7,7 @@ AICUP 2024 Cross-camera Multiple-object tracking
 <a href="https://tbrain.trendmicro.com.tw/Competitions/Details/33"><img src="https://i.imgur.com/3nfLbdW.png" title="source: imgur.com" /></a>  
 > 鑒於居家安全、犯罪偵防等需求，近年來攝影機系統在道路上被廣泛的運用。由於目前一般的監視系統都是基於單相機錄影，每個攝影機是獨立運作，所以當移動物件離開拍攝範圍後，就無法繼續辨識。其次，當發生車禍碰撞、犯罪事件，由於每台相機單獨錄影，相機間沒有協同作業的機制，
 > 因此警政單位必須花費龐大的人力資源，由人工搜尋監視系統錄製的影片，才能追蹤可疑車輛或行人的路徑與軌跡。本競賽著眼於跨相機多目標追蹤的技術以解決上述的問題。競賽資料集提供跨相機的道路車輛行駛影片，讓參賽團隊發展跨相機多目標追蹤的AI模型，
-> 目標要能夠偵測與辨識出在不同相機的相同車輛，期望本競賽能深化台灣在智慧交通的AI技術深化與多元發展。 
+> 目標要能夠偵測與辨識出在不同相機的相同車輛，期望能深化台灣在智慧交通的AI技術深化與多元發展。 
 
 <a href="https://drive.google.com/file/d/1VLShkCYHkK3wPXu97iid_D3epXNhmRP8/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Supplementary-Paper-blue" alt="Paper">
