@@ -24,7 +24,7 @@ or pedestrians.
 
 ### This work earn the 6th place among 286 teams
 <details>
-  <summary><b>LeaderBoard 🎖️</b></summary>
+  <summary><b>LeaderBoard </b></summary>
   
   ![image](https://github.com/Louislin0128/AICUP-2024-competition/blob/main/photo/lb.png)
 </details>
@@ -33,15 +33,15 @@ or pedestrians.
 ### Pipeline of our tracking method
 ![image](https://github.com/Louislin0128/AICUP-2024-competition/blob/main/photo/architecture.png)
 
-## 🚗 Demo Results
+<br>
+## Demo Results
 ### Here are some tracking results.
 
 <details>
   <summary><b>Example demo </b></summary>
+  #TODO
 
-<br>
-
-
+</br>
 </details>
 
 ### Install
