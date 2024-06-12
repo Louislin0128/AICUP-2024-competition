@@ -5,13 +5,19 @@ AICUP 2024 Cross-camera Multiple-object tracking
 - [**AI 驅動出行未來：跨相機多目標車輛追蹤競賽 － 模型組**](https://tbrain.trendmicro.com.tw/Competitions/Details/33)  
   
 <a href="https://tbrain.trendmicro.com.tw/Competitions/Details/33"><img src="https://i.imgur.com/3nfLbdW.png" title="source: imgur.com" /></a>  
-> In recent years, surveillance camera systems have been widely used on roads due to the demands for
-home security and crime prevention. Since most surveillance systems are currently based on singlecamera recording, each camera operates independently, making it impossible to continue identifying
-moving objects once they leave the field of view. Additionally, in the event of accidents or criminal
+> In recent years, surveillance camera systems have been widely used on roads due to the demands for home security and crime prevention. Since most surveillance systems are currently based on singlecamera recording, each camera operates independently, making it impossible to continue identifying moving objects once they leave the field of view. Additionally, in the event of accidents or criminal
 incidents, because each camera records independently and there is no mechanism for cooperative
 operation between cameras, law enforcement agencies must expend significant manpower resources to
 manually search through surveillance recordings to track the paths and trajectories of suspicious vehicles
 or pedestrians. 
+
+<a href="https://drive.google.com/file/d/1VLShkCYHkK3wPXu97iid_D3epXNhmRP8/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Supplementary-Paper-blue" alt="Paper">
+</a>
+
+<a href="https://drive.google.com/file/d/1kPULVZGvUKC-0ohew0K2pYOyIksacUXv/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Supplementary-CompetitionReport-blue" alt="CompetitionReport">
+</a>
 
 <a href="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Louislin0128%2FAICUP-2024-competition&label=visitors&countColor=%232ccce4&style=plastic" target="_blank">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Louislin0128%2FAICUP-2024-competition&label=visitors&countColor=%232ccce4&style=plastic" alt="Visitors">
@@ -29,6 +35,7 @@ or pedestrians.
   ![image](https://github.com/Louislin0128/AICUP-2024-competition/blob/main/photo/lb.png)
 </details>
 
+<br>
 
 ### Pipeline of our tracking method
 ![image](https://github.com/Louislin0128/AICUP-2024-competition/blob/main/photo/architecture.png)
