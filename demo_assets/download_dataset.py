@@ -5,7 +5,7 @@ import argparse
 
 def main(target_path):
     target_path = os.path.abspath(target_path)
-    wget.download('https://github.com/FanChiMao/Competition-2024-PyTorch-Tracking/releases/download/v0.0/small_image.zip', out=target_path)
+    wget.download('https://github.com/Louislin0128/AICUP-2024-competition/releases/tag/v0.0/small_image.zip', out=target_path)
 
     try:
         print("Start download the demo images...")
