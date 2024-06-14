@@ -282,10 +282,10 @@ parser.add_argument('--cdt', type=float, default=3.0, help='coasted deletion tim
 parser.add_argument('--high_score', type=float, default=0.5, help='high score threshold')
 parser.add_argument('--conf_thresh', type=float, default=0.1, help='detection confidence threshold')
 parser.add_argument('--name', type=str,default='0903_150000_151900', help='save results to project/name')
-parser.add_argument('--path', type=str,default="/mnt/HDD8/tinery/MLSP/final_project/dataset/32_33_train_v2/train/images/", help='save results to project/name')
+parser.add_argument('--path', type=str,default="./demo_assets/", help='save results to project/name')
 parser.add_argument('--model_config', type=str,default="fast_reid/configs/VeRi/sbs_R50-ibn.yml", help='save results to project/name')
-parser.add_argument('--w_reid', type=str,default= "fast_reid/pretrained/model_0058_ft.pth", help='save results to project/name')
-parser.add_argument('--w_detection', type=str,default='pretrained/yolov8x.pt', help='save results to project/name')
+parser.add_argument('--w_reid', type=str,default= "./demo_assets/model_0058_ft.pth", help='save results to project/name')
+parser.add_argument('--w_detection', type=str,default='./demo_assets/yolov8x.pt', help='save results to project/name')
 
 args = parser.parse_args()
  
