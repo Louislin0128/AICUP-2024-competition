@@ -13,7 +13,7 @@ def main(target_path):
             with zipfile.ZipFile(os.path.join(target_path, "./small_image.zip")) as zip_ref:
                 zip_ref.extractall(target_path)
     except Exception as error:
-    #     print(f"Error Exception: {error}")
+        print(f"Error Exception: {error}")
     # finally:
     #     if os.path.exists(os.path.join(target_path, "./small_image.zip")):
     #         os.remove(os.path.join(target_path, "./small_image.zip"))
