@@ -45,7 +45,8 @@ AICUP 2024 Cross-camera Multiple-object tracking
 
 <details>
   <summary><b>Example demo </b></summary>
-  #TODO
+
+  https://github.com/Louislin0128/AICUP-2024-competition/demo_assets/
 
 </br>
 </details>
