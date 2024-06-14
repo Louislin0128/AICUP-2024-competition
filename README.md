@@ -26,7 +26,7 @@ AICUP 2024 Cross-camera Multiple-object tracking
 </a>
 
 
-### This work earn the 6th place among 286 teams
+### :medal_sports: This work earn the 6th place among 286 teams 
 <details>
   <summary><b>LeaderBoard </b></summary>
   
@@ -35,23 +35,33 @@ AICUP 2024 Cross-camera Multiple-object tracking
 
 <br>
 
-### Pipeline of our tracking method
+### :railway_track: Pipeline of our tracking method 
 ![image](https://github.com/Louislin0128/AICUP-2024-competition/blob/main/photo/architecture.png)
 
 <br>
 
-## Demo Results
+## ✨Demo Results✨
 ### Here are some tracking results.
 
 <details>
   <summary><b>Example demo </b></summary>
 
-  https://github.com/Louislin0128/AICUP-2024-competition/demo_assets/
+  
+### 1. result1
 
-</br>
+  https://github.com/Louislin0128/AICUP-2024-competition/assets/114489081/25dd80dd-501c-4226-a979-a4d2bf9a74ca
+
+### 2. result2
+
+  https://github.com/Louislin0128/AICUP-2024-competition/assets/114489081/dfa43ed4-1ed4-410e-8998-daac599c2ac1
+
+### 3. result3
+
+  https://github.com/Louislin0128/AICUP-2024-competition/assets/114489081/d396a703-3b5c-4d73-80e5-b4791d0c13f2
+
 </details>
 
-### Install
+## Install
 This implementation uses Python 3.8, [Pytorch](http://pytorch.org/),  Cuda 11.3. 
 ```shell
 # Copy/Paste the snippet in a terminal
