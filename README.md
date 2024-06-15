@@ -21,11 +21,14 @@ AICUP 2024 Cross-camera Multiple-object tracking
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Louislin0128%2FAICUP-2024-competition&label=visitors&countColor=%232ccce4&style=plastic" alt="Visitors">
 </a>
 
-[![GitHub repo watchers](https://img.shields.io/github/watchers/Louislin0128/AICUP-2024-competition?style=flat&logo=github&logoColor=whitesmoke&label=Watchers)](https://github.com/Louislin0128/AICUP-2024-competition/watchers)&#160;
-
 <a href="https://img.shields.io/github/downloads/Louislin0128/AICUP-2024-competition/total" target="_blank">
   <img src="https://img.shields.io/github/downloads/Louislin0128/AICUP-2024-competition/total" alt="Download">
 </a>
+
+<a href="https://img.shields.io/github/watchers/Louislin0128/AICUP-2024-competition?style=flat&logo=github&logoColor=whitesmoke&label=Watchers" target="_blank">
+  <img src="https://github.com/Louislin0128/AICUP-2024-competition/watchers" alt="Watcher">
+</a>
+
 
 
 ### :medal_sports: This work earn the 6th place among 286 teams 
